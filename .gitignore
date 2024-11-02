@@ -18,3 +18,5 @@ chuyu-analysis/config.php
 /.vs
 /www.chuyu.me/de/index.html
 /www.chuyu.me/MakeWeb.cmd
+.idea
+x64
